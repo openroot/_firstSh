@@ -1,4 +1,4 @@
-echo "_firstsh"
+echo "_firstSh"
 echo "+strange easy world"
 
 echo ",say enter any string: "
